@@ -9,3 +9,4 @@ tensorflow==2.13.0
 tensorflow-estimator==2.13.0
 tensorflow-io-gcs-filesystem==0.34.0
 scikit-learn
+beautifulsoup4
